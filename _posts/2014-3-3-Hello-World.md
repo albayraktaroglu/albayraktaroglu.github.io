@@ -1,10 +1,14 @@
 ---
 layout: post
-title: You're up and running!
+title: First post Atlas - a bronze statue on 5th Avenue
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+I took a picture of Atlas `a bronze statue in front of Rockefeller Center in midtown Manhattan, New York City, across Fifth Avenue from St. Patrick's Cathedral`
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+Atlas is a successful collaboration between two talented artists, Lee Lawrie, who conceived the idea and designed the figure, and Rene Chambellan, who modeled the heroic-sized statue from his sketch. A famous figure from Greek mythology, Atlas was a half-man, half-god giant known as a Titan, who helped lead a war against the Olympic gods. After the Titans’ defeat, Atlas was condemned to carry the world on his shoulders as punishment. Atlas is one of Rockefeller Center’s greatest Art Deco icons and has even been used on U.S. postage stamps.
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+![rockefeller_center]({{ site.baseurl }}/images/rockefeller_center.jpg)
+
+
+
+**Writing Sourced from** https://www.rockefellercenter.com/art-and-history/art/atlas/
