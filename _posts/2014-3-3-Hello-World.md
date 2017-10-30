@@ -7,7 +7,7 @@ I took a picture of Atlas `a bronze statue in front of Rockefeller Center in mid
 
 Atlas is a successful collaboration between two talented artists, Lee Lawrie, who conceived the idea and designed the figure, and Rene Chambellan, who modeled the heroic-sized statue from his sketch. A famous figure from Greek mythology, Atlas was a half-man, half-god giant known as a Titan, who helped lead a war against the Olympic gods. After the Titans’ defeat, Atlas was condemned to carry the world on his shoulders as punishment. Atlas is one of Rockefeller Center’s greatest Art Deco icons and has even been used on U.S. postage stamps.
 
-![atlas]({{ site.baseurl }}images/atlas.jpeg)
+![atlas]({{ site.baseurl }}/images/atlas.jpeg)
 
 
 
