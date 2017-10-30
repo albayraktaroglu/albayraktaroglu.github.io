@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+During my undergraduate years, my main goal was to experience as many different fields of computer science as I could. I developed at least one project in each computer vision(OpenCV, scikit-image), mobile programming(Android), web programming fields(.NET MVC & Flask). Recently I had a chance to take a look at Machine Learning(scikit-learn & theano) field. So for last one year I am working as a Cognitive Computing Engineer in NY.
 
-### More Information
+Like to being a Full Stack Developer and taking pictures...
 
-A place to include any other types of information that you'd like to include about yourself.
+Interested to work in `Web Development`, `Computer Vision` and `Machine Learning`
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[albayraktarm@gmail.com](mailto:albayraktarm@gmail.com)
