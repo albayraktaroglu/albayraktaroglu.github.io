@@ -18,9 +18,9 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   email: albayraktarm@gmail.com
-  github: https://github.com/albayraktaroglu
-  instagram: https://www.instagram.com/albayraktaroglu/
-  linkedin: https://www.linkedin.com/in/albayraktaroglu/
+  github: /albayraktaroglu
+  instagram: /albayraktaroglu
+  linkedin: /albayraktaroglu
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
