@@ -13,4 +13,4 @@ Interested to work in `Web Development`, `Computer Vision` and `Machine Learning
 
 ### Contact me
 
-[albayraktarm@gmail.com](mailto:albayraktarm@gmail.com)
+[albayraktarhm@gmail.com](mailto:albayraktarhm@gmail.com)
