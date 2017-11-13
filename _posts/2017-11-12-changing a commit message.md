@@ -21,9 +21,9 @@ The new commit and message will appear on GitHub the next time you push.
 
 ### Amending the message of the most recently pushed commit
 
-    - Follow the steps above to amend the commit message.
+- Follow the steps above to amend the commit message.
 
-    - Use the `push --force` command to force push over the old commit.
+- Use the `push --force` command to force push over the old commit.
 
 ```ssh 
 git push --force example-branch
