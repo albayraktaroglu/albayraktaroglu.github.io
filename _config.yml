@@ -77,4 +77,4 @@ exclude:
   - CNAME
   
 # disqus
-comments: true
+comments: false
